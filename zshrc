@@ -1,0 +1,1 @@
+export OPEN_WEATHER_API_KEY = 05ea9e4ca6d96e03e861c29aea600b78
